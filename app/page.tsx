@@ -57,7 +57,7 @@ export default function Home() {
 
         <div className="prose max-w-none prose-lg pt-8 pb-7 dark:prose-invert xl:col-span-2">
           <p>
-            Hello, welcome to my profile! My name is Alysson, I'm 22 years old, I'm a full stack developer, driven by my passion for user experience and software engineering.
+            Hello, welcome to my portfolio! My name is Alysson, I'm 22 years old, I'm a full stack developer, driven by my passion for user experience and software engineering.
           </p>
           <p>I worked at Sig Coding as a Front-end Trainee and as a Volunteer Developer at DoarBem, and now I'm looking for a full-time job opportunity.</p>
           <p>
