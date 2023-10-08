@@ -59,11 +59,12 @@ export default function Home() {
           <p>
             Hello, welcome to my profile! My name is Alysson, I'm 22 years old, I'm a full stack developer, driven by my passion for user experience and software engineering.
           </p>
+          <p>I worked at Sig Coding as a Front-end Trainee and as a Volunteer Developer at DoarBem, and now I'm looking for a full-time job opportunity.</p>
           <p>
             I'm currently a <span className="text-blue-500">Computer Science</span>'s student, and I have experience with web development, using the latest technologies on the market.<span className="text-teal-500"> Next.js, React.js, Node.js, MongoDB, GraphQL, TypeScript, TailwindCSS, among others</span>. Communicative and determined, I am always improving my knowledge and seeking new challenges.
           </p>
           <p>
-            I offer solutions in digital services in the area of web development.<a href="mailto:alyssonper@gmail.com" target="_blank" className="text-blue-500 no-underline"> Contact me</a> and let's work together!
+            I offer solutions in digital software development services. Get in touch and let's work together!<a href="mailto:alyssonper@gmail.com" target="_blank" className="text-blue-500 no-underline"> Contact me</a> and let's work together!
           </p>
         </div>
       </div>
