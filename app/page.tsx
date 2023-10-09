@@ -64,7 +64,8 @@ export default function Home() {
             I'm currently a <span className="text-blue-500">Computer Science</span>'s student, and I have experience with web development, using the latest technologies on the market.<span className="text-teal-500"> Next.js, React.js, Node.js, MongoDB, GraphQL, TypeScript, TailwindCSS, among others</span>. Communicative and determined, I am always improving my knowledge and seeking new challenges.
           </p>
           <p>
-            I offer solutions in digital software development services. <a href="mailto:alyssonper@gmail.com" target="_blank" className="text-blue-500 no-underline">Contact me</a> and let's work together!
+            I offer solutions in digital software development services.<br> 
+            <a href="mailto:alyssonper@gmail.com" target="_blank" className="text-blue-500 no-underline">Contact me</a> and let's work together!
           </p>
         </div>
       </div>
